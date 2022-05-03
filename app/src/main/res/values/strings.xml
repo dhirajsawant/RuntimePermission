@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Runtime Permission</string>
+    <string name="runtime_permission">RUNTIME PERMISSION!</string>
+    <string name="check_permission">Check Permission</string>
+    <string name="request_permission">Request Permission</string>
+    <string name="action_settings" />
+    <string name="camera">Camera</string>
+    <string name="runtime_permission_example">Runtime Permission example</string>
+</resources>
